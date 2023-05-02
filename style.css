@@ -137,23 +137,25 @@
     left: 0px;
   }
   
-  /* .annual{
-    grid-column: 2;
+  .annual{
+    
     font-size: 1rem;
     font-weight: 900;
     line-height: 21px;
-    margin-bottom: 6px;
+    
 
   }
   .cost{
-    grid-row: 2;
+    
     font-size: 1rem;
     font-weight: 500;
     line-height: 21px;
+    color:  hsla(224, 23%, 55%, 1);
+    ;
 
-  } */
+  }
   .change__button{
-    /* grid-row: 1/3; */
+    
     text-align: end;
     text-decoration: underline;
     font-size: 14px;
